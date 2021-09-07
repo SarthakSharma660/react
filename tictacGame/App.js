@@ -43,7 +43,7 @@ const App = () => {
       Snackbar.show({
         text:"The Position is already filled",
         backgroundColor:"#FF6263",
-        color:"#FFF"
+        textColor:"#FFF"
       })
     }
     
